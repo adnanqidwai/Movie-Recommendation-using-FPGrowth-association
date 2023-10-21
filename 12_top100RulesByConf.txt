@@ -1,0 +1,500 @@
+Antecedents: ['Lord of the Rings: The Two Towers: The (2002)', 'Finding Nemo (2003)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 91.52542372881356
+Support: 54
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Finding Nemo (2003)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 91.07142857142857
+Support: 51
+
+Antecedents: ['Terminator: The (1984)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 89.65517241379311
+Support: 52
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Incredibles: The (2004)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 87.71929824561403
+Support: 50
+
+Antecedents: ['Memento (2000)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 86.88524590163934
+Support: 53
+
+Antecedents: ['Shawshank Redemption: The (1994)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 86.66666666666667
+Support: 52
+
+Antecedents: ['Silence of the Lambs: The (1991)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 86.56716417910447
+Support: 58
+
+Antecedents: ['Shrek (2001)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 86.4406779661017
+Support: 51
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Batman Begins (2005)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 86.20689655172413
+Support: 50
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Dark Knight: The (2008)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 86.20689655172413
+Support: 50
+
+Antecedents: ['Shawshank Redemption: The (1994)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 85.36585365853658
+Support: 70
+
+Antecedents: ['Gladiator (2000)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 84.7457627118644
+Support: 50
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Die Hard (1988)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 84.61538461538461
+Support: 55
+
+Antecedents: ['Pulp Fiction (1994)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 83.82352941176471
+Support: 57
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 83.60655737704919
+Support: 51
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Terminator: The (1984)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 83.60655737704919
+Support: 51
+
+Antecedents: ['Fight Club (1999)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 83.56164383561644
+Support: 61
+
+Antecedents: ['Lord of the Rings: The Two Towers: The (2002)', 'Incredibles: The (2004)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 83.33333333333334
+Support: 50
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)', 'X-Men (2000)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 83.33333333333334
+Support: 50
+
+Antecedents: ['Godfather: Part II: The (1974)', 'Matrix: The (1999)']
+Consequents: ['Godfather: The (1972)']
+Confidence: 83.33333333333334
+Support: 50
+
+Antecedents: ['Shrek (2001)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 83.07692307692308
+Support: 54
+
+Antecedents: ['Pulp Fiction (1994)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 82.71604938271605
+Support: 67
+
+Antecedents: ['Forrest Gump (1994)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 82.66666666666667
+Support: 62
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'American Beauty (1999)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 82.6086956521739
+Support: 57
+
+Antecedents: ['Memento (2000)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 82.35294117647058
+Support: 56
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Alien (1979)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 82.25806451612904
+Support: 51
+
+Antecedents: ['Forrest Gump (1994)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 82.1917808219178
+Support: 60
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 82.1917808219178
+Support: 60
+
+Antecedents: ['Jurassic Park (1993)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 82.08955223880598
+Support: 55
+
+Antecedents: ['Forrest Gump (1994)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 82.08955223880598
+Support: 55
+
+Antecedents: ['Matrix: The (1999)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 81.9672131147541
+Support: 50
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)', 'Terminator: The (1984)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 81.9672131147541
+Support: 50
+
+Antecedents: ['Shawshank Redemption: The (1994)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 81.92771084337349
+Support: 68
+
+Antecedents: ['Shawshank Redemption: The (1994)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 81.81818181818183
+Support: 63
+
+Antecedents: ['Gladiator (2000)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 81.42857142857143
+Support: 57
+
+Antecedents: ['Lord of the Rings: The Two Towers: The (2002)', 'Pirates of the Caribbean: The Curse of the Black Pearl (2003)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 81.42857142857143
+Support: 57
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Sixth Sense: The (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 81.25
+Support: 52
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 81.25
+Support: 52
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', 'Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 81.25
+Support: 52
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Fight Club (1999)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 81.15942028985508
+Support: 56
+
+Antecedents: ['Memento (2000)', 'Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 81.15942028985508
+Support: 56
+
+Antecedents: ['Indiana Jones and the Last Crusade (1989)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.95238095238095
+Support: 51
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Alien (1979)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 80.95238095238095
+Support: 51
+
+Antecedents: ['Die Hard (1988)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 80.88235294117648
+Support: 55
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.82191780821918
+Support: 59
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', 'American Beauty (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.64516129032258
+Support: 50
+
+Antecedents: ['Die Hard (1988)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.64516129032258
+Support: 50
+
+Antecedents: ['Forrest Gump (1994)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 80.59701492537313
+Support: 54
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 80.3030303030303
+Support: 53
+
+Antecedents: ['Gladiator (2000)', 'Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 80.28169014084507
+Support: 57
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)', 'Fight Club (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.0
+Support: 52
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Princess Bride: The (1987)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 80.0
+Support: 52
+
+Antecedents: ['Terminator 2: Judgment Day (1991)', 'Terminator: The (1984)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.0
+Support: 52
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Terminator: The (1984)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 80.0
+Support: 52
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Star Wars: Episode VI - Return of the Jedi (1983)', 'Matrix: The (1999)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 79.71014492753623
+Support: 55
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Star Wars: Episode VI - Return of the Jedi (1983)', 'Matrix: The (1999)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 79.71014492753623
+Support: 55
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Matrix: The (1999)', 'Inception (2010)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Indiana Jones and the Last Crusade (1989)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Kill Bill: Vol. 1 (2003)', 'Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'X-Men (2000)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Indiana Jones and the Last Crusade (1989)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Back to the Future (1985)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 79.6875
+Support: 51
+
+Antecedents: ['Silence of the Lambs: The (1991)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 79.48717948717949
+Support: 62
+
+Antecedents: ['Fight Club (1999)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 79.45205479452055
+Support: 58
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Pirates of the Caribbean: The Curse of the Black Pearl (2003)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 79.45205479452055
+Support: 58
+
+Antecedents: ['Fight Club (1999)', 'Shrek (2001)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 79.36507936507937
+Support: 50
+
+Antecedents: ['Usual Suspects: The (1995)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 79.36507936507937
+Support: 50
+
+Antecedents: ['Gattaca (1997)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 79.1044776119403
+Support: 53
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 79.0
+Support: 79
+
+Antecedents: ['Matrix Reloaded: The (2003)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 78.87323943661971
+Support: 56
+
+Antecedents: ['Men in Black (a.k.a. MIB) (1997)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 78.78787878787878
+Support: 52
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)', 'American Beauty (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 78.78787878787878
+Support: 52
+
+Antecedents: ['Lord of the Rings: The Two Towers: The (2002)', 'Pirates of the Caribbean: The Curse of the Black Pearl (2003)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 78.57142857142857
+Support: 55
+
+Antecedents: ['Matrix: The (1999)', 'Finding Nemo (2003)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 78.57142857142857
+Support: 55
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 78.46153846153847
+Support: 51
+
+Antecedents: ['Pulp Fiction (1994)', 'Shrek (2001)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 78.26086956521739
+Support: 54
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Indiana Jones and the Last Crusade (1989)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 78.26086956521739
+Support: 54
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)', "Schindler's List (1993)"]
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 78.125
+Support: 50
+
+Antecedents: ['Pulp Fiction (1994)', 'Finding Nemo (2003)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 78.125
+Support: 50
+
+Antecedents: ['Lord of the Rings: The Return of the King: The (2003)', 'Batman Begins (2005)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 78.125
+Support: 50
+
+Antecedents: ['Forrest Gump (1994)', 'Mask: The (1994)']
+Consequents: ['Jurassic Park (1993)']
+Confidence: 78.125
+Support: 50
+
+Antecedents: ['Die Hard (1988)', 'Star Wars: Episode VI - Return of the Jedi (1983)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 78.125
+Support: 50
+
+Antecedents: ['Fargo (1996)', 'Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 78.125
+Support: 50
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Sixth Sense: The (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 78.08219178082192
+Support: 57
+
+Antecedents: ['Batman Forever (1995)']
+Consequents: ['Batman (1989)']
+Confidence: 78.02197802197803
+Support: 71
+
+Antecedents: ['Pulp Fiction (1994)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 77.94117647058823
+Support: 53
+
+Antecedents: ['Pulp Fiction (1994)', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 77.92207792207793
+Support: 60
+
+Antecedents: ['Godfather: Part II: The (1974)']
+Consequents: ['Godfather: The (1972)']
+Confidence: 77.89473684210526
+Support: 74
+
+Antecedents: ['Terminator 2: Judgment Day (1991)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 77.61194029850746
+Support: 52
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)', 'Princess Bride: The (1987)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 77.61194029850746
+Support: 52
+
+Antecedents: ['Matrix: The (1999)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 77.52808988764045
+Support: 69
+
+Antecedents: ['Matrix: The (1999)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 77.38095238095238
+Support: 65
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)', 'Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 77.33333333333333
+Support: 58
+
+Antecedents: ['Pulp Fiction (1994)', 'Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 77.33333333333333
+Support: 58
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)', 'Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 77.27272727272727
+Support: 51
+
+Antecedents: ['Fifth Element: The (1997)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 77.27272727272727
+Support: 68
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Men in Black (a.k.a. MIB) (1997)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 77.27272727272727
+Support: 51
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)', 'Sixth Sense: The (1999)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 77.27272727272727
+Support: 51
+

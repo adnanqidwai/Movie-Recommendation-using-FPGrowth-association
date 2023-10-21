@@ -1,0 +1,500 @@
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 56.00000000000001
+Support: 140
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 59.82905982905983
+Support: 140
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 52.400000000000006
+Support: 131
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 55.04201680672269
+Support: 131
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 54.621848739495796
+Support: 130
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 55.55555555555556
+Support: 130
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 53.84615384615385
+Support: 126
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 58.333333333333336
+Support: 126
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 56.94444444444444
+Support: 123
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 49.2
+Support: 123
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 61.904761904761905
+Support: 117
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 72.22222222222221
+Support: 117
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Jurassic Park (1993)']
+Confidence: 47.05882352941176
+Support: 112
+
+Antecedents: ['Jurassic Park (1993)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 62.22222222222222
+Support: 112
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 58.201058201058196
+Support: 110
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 50.92592592592593
+Support: 110
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 51.162790697674424
+Support: 110
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 46.21848739495798
+Support: 110
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 46.58119658119658
+Support: 109
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 50.697674418604656
+Support: 109
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 50.23255813953489
+Support: 108
+
+Antecedents: ['Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 70.58823529411765
+Support: 108
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 72.48322147651007
+Support: 108
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 43.2
+Support: 108
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 49.30232558139535
+Support: 106
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 65.4320987654321
+Support: 106
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Fight Club (1999)']
+Confidence: 48.372093023255815
+Support: 104
+
+Antecedents: ['Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Lord of the Rings: The Two Towers: The (2002)']
+Confidence: 67.97385620915033
+Support: 104
+
+Antecedents: ['Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 75.36231884057972
+Support: 104
+
+Antecedents: ['Saving Private Ryan (1998)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 68.42105263157895
+Support: 104
+
+Antecedents: ['Fight Club (1999)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 62.65060240963856
+Support: 104
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Fight Club (1999)']
+Confidence: 41.6
+Support: 104
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Saving Private Ryan (1998)']
+Confidence: 48.372093023255815
+Support: 104
+
+Antecedents: ['Fight Club (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 62.65060240963856
+Support: 104
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 66.02564102564102
+Support: 103
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']
+Confidence: 47.906976744186046
+Support: 103
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Star Wars: Episode VI - Return of the Jedi (1983)']
+Confidence: 53.43915343915344
+Support: 101
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Jurassic Park (1993)']
+Confidence: 43.162393162393165
+Support: 101
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Braveheart (1995)']
+Confidence: 40.400000000000006
+Support: 101
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 42.436974789915965
+Support: 101
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 46.97674418604651
+Support: 101
+
+Antecedents: ['Braveheart (1995)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 56.424581005586596
+Support: 101
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 69.6551724137931
+Support: 101
+
+Antecedents: ['Jurassic Park (1993)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 56.111111111111114
+Support: 101
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Braveheart (1995)']
+Confidence: 42.016806722689076
+Support: 100
+
+Antecedents: ['Braveheart (1995)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 55.865921787709496
+Support: 100
+
+Antecedents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Consequents: ['Lord of the Rings: The Two Towers: The (2002)']
+Confidence: 67.11409395973155
+Support: 100
+
+Antecedents: ['Lord of the Rings: The Two Towers: The (2002)']
+Consequents: ['Lord of the Rings: The Fellowship of the Ring: The (2001)']
+Confidence: 72.46376811594203
+Support: 100
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Seven (a.k.a. Se7en) (1995)']
+Confidence: 42.30769230769231
+Support: 99
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Braveheart (1995)']
+Confidence: 42.30769230769231
+Support: 99
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ["Schindler's List (1993)"]
+Confidence: 39.6
+Support: 99
+
+Antecedents: ["Schindler's List (1993)"]
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 60.0
+Support: 99
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 66.0
+Support: 99
+
+Antecedents: ['Braveheart (1995)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 55.3072625698324
+Support: 99
+
+Antecedents: ['Braveheart (1995)']
+Consequents: ['Jurassic Park (1993)']
+Confidence: 54.7486033519553
+Support: 98
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 51.85185185185185
+Support: 98
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 39.2
+Support: 98
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ["Schindler's List (1993)"]
+Confidence: 41.88034188034188
+Support: 98
+
+Antecedents: ["Schindler's List (1993)"]
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 59.3939393939394
+Support: 98
+
+Antecedents: ['Jurassic Park (1993)']
+Consequents: ['Braveheart (1995)']
+Confidence: 54.44444444444444
+Support: 98
+
+Antecedents: ['Jurassic Park (1993)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 53.888888888888886
+Support: 97
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 45.11627906976744
+Support: 97
+
+Antecedents: ["Schindler's List (1993)"]
+Consequents: ['Forrest Gump (1994)']
+Confidence: 58.78787878787879
+Support: 97
+
+Antecedents: ['Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 63.39869281045751
+Support: 97
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Jurassic Park (1993)']
+Confidence: 44.907407407407405
+Support: 97
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ["Schindler's List (1993)"]
+Confidence: 40.7563025210084
+Support: 97
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 50.79365079365079
+Support: 96
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 44.44444444444444
+Support: 96
+
+Antecedents: ['Lord of the Rings: The Return of the King: The (2003)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 62.745098039215684
+Support: 96
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Lord of the Rings: The Return of the King: The (2003)']
+Confidence: 38.4
+Support: 96
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 41.02564102564102
+Support: 96
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 44.651162790697676
+Support: 96
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 65.51724137931035
+Support: 95
+
+Antecedents: ['Star Wars: Episode VI - Return of the Jedi (1983)']
+Consequents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Confidence: 65.51724137931035
+Support: 95
+
+Antecedents: ['Star Wars: Episode V - The Empire Strikes Back (1980)']
+Consequents: ['Star Wars: Episode VI - Return of the Jedi (1983)']
+Confidence: 58.64197530864198
+Support: 95
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Star Wars: Episode VI - Return of the Jedi (1983)']
+Confidence: 44.18604651162791
+Support: 95
+
+Antecedents: ['Apollo 13 (1995)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 60.509554140127385
+Support: 95
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Apollo 13 (1995)']
+Confidence: 39.91596638655462
+Support: 95
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['Sixth Sense: The (1999)']
+Confidence: 44.18604651162791
+Support: 95
+
+Antecedents: ['Sixth Sense: The (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 69.85294117647058
+Support: 95
+
+Antecedents: ['Shawshank Redemption: The (1994)']
+Consequents: ['Jurassic Park (1993)']
+Confidence: 37.6
+Support: 94
+
+Antecedents: ['Jurassic Park (1993)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 52.22222222222223
+Support: 94
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Braveheart (1995)']
+Confidence: 43.51851851851852
+Support: 94
+
+Antecedents: ['Braveheart (1995)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 52.513966480446925
+Support: 94
+
+Antecedents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 59.61538461538461
+Support: 93
+
+Antecedents: ['Fight Club (1999)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 56.024096385542165
+Support: 93
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)']
+Confidence: 49.2063492063492
+Support: 93
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Fight Club (1999)']
+Confidence: 39.743589743589745
+Support: 93
+
+Antecedents: ['Seven (a.k.a. Se7en) (1995)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 61.33333333333333
+Support: 92
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Seven (a.k.a. Se7en) (1995)']
+Confidence: 42.592592592592595
+Support: 92
+
+Antecedents: ['Matrix: The (1999)']
+Consequents: ['American Beauty (1999)']
+Confidence: 42.32558139534884
+Support: 91
+
+Antecedents: ['Forrest Gump (1994)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 38.23529411764706
+Support: 91
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Forrest Gump (1994)']
+Confidence: 48.148148148148145
+Support: 91
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ['Star Wars: Episode IV - A New Hope (1977)']
+Confidence: 42.129629629629626
+Support: 91
+
+Antecedents: ['Star Wars: Episode IV - A New Hope (1977)']
+Consequents: ['Silence of the Lambs: The (1991)']
+Confidence: 48.148148148148145
+Support: 91
+
+Antecedents: ['American Beauty (1999)']
+Consequents: ['Matrix: The (1999)']
+Confidence: 57.961783439490446
+Support: 91
+
+Antecedents: ['Silence of the Lambs: The (1991)']
+Consequents: ["Schindler's List (1993)"]
+Confidence: 41.66666666666667
+Support: 90
+
+Antecedents: ['Pulp Fiction (1994)']
+Consequents: ['Twelve Monkeys (a.k.a. 12 Monkeys) (1995)']
+Confidence: 38.46153846153847
+Support: 90
+
+Antecedents: ['Twelve Monkeys (a.k.a. 12 Monkeys) (1995)']
+Consequents: ['Pulp Fiction (1994)']
+Confidence: 60.810810810810814
+Support: 90
+
+Antecedents: ['Apollo 13 (1995)']
+Consequents: ['Shawshank Redemption: The (1994)']
+Confidence: 57.324840764331206
+Support: 90
+
