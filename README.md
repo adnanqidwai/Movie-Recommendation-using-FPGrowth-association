@@ -1,8 +1,5 @@
-# ***Assignment 3***
-### ***Team 12***
-
 ## **Introduction**
-This assignment is about the implementation of an association rule-based movie recommender system, based on the **`fpgrowth`** algorithm. The system is implemented in Python 3.11.6
+This project is about the implementation of an association rule-based movie recommender system, based on the **`fpgrowth`** algorithm. The system is implemented in Python 3.11.6
 
 ### Implementation
 The implementation of the recommender system is done and explained in the **`12_recommender.ipynb`** file.
